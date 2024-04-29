@@ -1,0 +1,18 @@
+.caja {
+    border: 0.1rem solid black;
+    padding: 0.1rem 0.1rem;
+    margin: 0.1rem auto;
+    width: 50rem;
+    text-align: center;
+}
+
+.fondo {
+    background-color: aqua;
+}
+.font {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1rem;
+}
+.color {
+    color: black;
+}
